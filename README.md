@@ -18,3 +18,4 @@ The bot may have some problems, but it will be updated to v14 soon.
 
 The bot is made by [!RAYAN#8535](https://discord.com/users/911051728282079262) and [Falcon Development](https://discord.gg/mgeU49KWzp). Please do not sell or buy the bot because it is originally free, and also the bot with the rights of the [Falcon Store](https://discord.gg/mgeU49KWzp) and with the rights of [!RAYAN#8535](https://discord.com/users/911051728282079262). In the event that you settle something with the bot other than modification without the permission of the bot owners, you may face consequences.
 
+Support : https://discord.gg/7vfVX5Dn
